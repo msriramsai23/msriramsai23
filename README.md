@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msriramsai23
 - 👀 I’m interested in 
 datascience,machine learning,python
-c,c++,competitive coding
+c,c++,competitive coding,
 fullstack development
 - 🌱 I’m currently learning 
 Fullstack development
