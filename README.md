@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m.sriramsai23@gmail.com**
 
-- ⚡ Fun fact **Introvert but Cool(can't be cool coz i'm introvert lol)**
+- ⚡ Fun fact **Introvert and Cool(can't be cool coz i'm introvert lol)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
