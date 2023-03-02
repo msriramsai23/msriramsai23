@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **DSA , Competetive coding , development**
 
-- 👯 I’m looking to collaborate on **MERN stack , Flutter**
+- 👯 I’m looking to collaborate on **ML ,MERN stack , Flutter**
 
-- 💬 Ask me about **Mern , flutter , myself**
+- 💬 Ask me about **ML ,Mern , flutter , myself**
 
 - 📫 How to reach me **m.sriramsai23@gmail.com**
 
