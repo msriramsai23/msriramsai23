@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msriramsai23" alt="msriramsai23" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , Competetive coding , development**
+- 🌱 I’m currently learning **web development**
 
 - 👯 I’m looking to collaborate on **ML ,MERN stack , Flutter**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m.sriramsai23@gmail.com**
 
-- ⚡ Fun fact **blah blah blah ..........blah**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
